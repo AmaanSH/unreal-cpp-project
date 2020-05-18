@@ -1,6 +1,8 @@
 # unreal-cpp-project
 Project made alongside Udemy course. I am currently familar with the Unity and C# game engine and have started to expand my horizons starting to learn Unreal Engine 4 and C++. 
 
+The main game code written by me lives inside of ```BullCowGame-starter-kit/Source/BullCowGame/BullCowCartridge.cpp```
+
 Guess the isogram (any word that doesn’t have any repeating letters)
 Letter in guess and right place is a “Bull”
 Letter in guess but wrong place is a “Cow”
